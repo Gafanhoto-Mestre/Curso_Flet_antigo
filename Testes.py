@@ -1,4 +1,7 @@
-from importacoes import *
+# from importacoes import *
+
+import flet as ft
+import sqlite3
 
 def main(page: ft.Page):
     # Centraliza o conteúdo na página
